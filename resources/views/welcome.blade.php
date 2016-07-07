@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">LaraTest 5</div>
+                <div class="title">LaraTestAgain 5</div>
             </div>
         </div>
     </body>
